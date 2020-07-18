@@ -1,3 +1,18 @@
+# React Material-UI Boilerplate
+
+> A simple React boilerplate created with [Material-UI](https://material-ui.com), [React Router](https://reactrouter.com) and [Axios](https://github.com/axios/axios)
+
+## Install
+- Via [npm](https://npmjs.com)
+```bash
+$ npm install
+```
+- Via [yarn](https://yarnpkg.com)
+```bash
+$ yarn install
+```
+<hr />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
